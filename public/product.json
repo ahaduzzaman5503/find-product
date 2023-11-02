@@ -1,0 +1,243 @@
+[
+    {
+      "product_id": 1,
+      "category": "Furniture",
+      "image_url": "https://example.com/product1.jpg",
+      "title": "Elegant Leather Sofa",
+      "description": "Upgrade your living room with this elegant leather sofa. It offers both comfort and style for your home.",
+      "price": 799.99
+    },
+    {
+      "product_id": 2,
+      "category": "Electronics",
+      "image_url": "https://example.com/product2.jpg",
+      "title": "Smartphone Pro X",
+      "description": "The Smartphone Pro X features a powerful processor, stunning display, and an advanced camera for all your photography needs.",
+      "price": 699.99
+    },
+    {
+      "product_id": 3,
+      "category": "Fashion",
+      "image_url": "https://example.com/product3.jpg",
+      "title": "Classic Wristwatch",
+      "description": "A timeless classic, this wristwatch combines vintage style with modern functionality. Perfect for any occasion.",
+      "price": 149.99
+    },
+    {
+      "product_id": 4,
+      "category": "Electronics",
+      "image_url": "https://example.com/product4.jpg",
+      "title": "High-Performance Laptop",
+      "description": "Experience blazing-fast performance with our high-performance laptop, designed for work and play.",
+      "price": 999.99
+    },
+    {
+      "product_id": 5,
+      "category": "Electronics",
+      "image_url": "https://example.com/product5.jpg",
+      "title": "Wireless Noise-Canceling Headphones",
+      "description": "Immerse yourself in your favorite music with these wireless noise-canceling headphones. Enjoy peace and quiet anywhere.",
+      "price": 249.99
+    },
+    {
+      "product_id": 6,
+      "category": "Appliances",
+      "image_url": "https://example.com/product6.jpg",
+      "title": "Stainless Steel Refrigerator",
+      "description": "Keep your food fresh and your kitchen stylish with this stainless steel refrigerator. A must-have for any home chef.",
+      "price": 1099.99
+    },
+    {
+      "product_id": 7,
+      "category": "Fashion",
+      "image_url": "https://example.com/product7.jpg",
+      "title": "Designer Handbag",
+      "description": "Make a fashion statement with this designer handbag. It's the perfect accessory to complete your look.",
+      "price": 349.99
+    },
+    {
+      "product_id": 8,
+      "category": "Electronics",
+      "image_url": "https://example.com/product8.jpg",
+      "title": "4K Ultra HD Smart TV",
+      "description": "Experience breathtaking picture quality with this 4K Ultra HD Smart TV. Stream your favorite shows and movies with ease.",
+      "price": 599.99
+    },
+    {
+      "product_id": 9,
+      "category": "Electronics",
+      "image_url": "https://example.com/product9.jpg",
+      "title": "Professional Camera Kit",
+      "description": "Capture professional-quality photos and videos with this camera kit. Perfect for aspiring photographers.",
+      "price": 1299.99
+    },
+    {
+      "product_id": 10,
+      "category": "Appliances",
+      "image_url": "https://example.com/product10.jpg",
+      "title": "Outdoor Gas Grill",
+      "description": "Host the perfect barbecue with this outdoor gas grill. It's designed for grilling enthusiasts.",
+      "price": 499.99
+    },
+    {
+      "product_id": 11,
+      "category": "Fashion",
+      "image_url": "https://example.com/product11.jpg",
+      "title": "Luxury Bathrobe",
+      "description": "Indulge in comfort and luxury with this plush bathrobe. It's perfect for a spa-like experience at home.",
+      "price": 79.99
+    },
+    {
+      "product_id": 12,
+      "category": "Electronics",
+      "image_url": "https://example.com/product12.jpg",
+      "title": "Gaming Console Bundle",
+      "description": "Experience the latest in gaming with this console bundle. It includes popular games and accessories.",
+      "price": 399.99
+    },
+    {
+      "product_id": 13,
+      "category": "Appliances",
+      "image_url": "https://example.com/product13.jpg",
+      "title": "Coffee Maker with Grinder",
+      "description": "Brew your perfect cup of coffee with this coffee maker featuring a built-in grinder. Start your day right.",
+      "price": 149.99
+    },
+    {
+      "product_id": 14,
+      "category": "Electronics",
+      "image_url": "https://example.com/product14.jpg",
+      "title": "Fitness Tracker Watch",
+      "description": "Track your fitness goals and stay connected with this fitness tracker watch. It's your ultimate workout companion.",
+      "price": 99.99
+    },
+    {
+      "product_id": 15,
+      "category": "Kitchen",
+      "image_url": "https://example.com/product15.jpg",
+      "title": "Chef's Knife Set",
+      "description": "Elevate your culinary skills with this high-quality chef's knife set. Slice, dice, and chop like a pro.",
+      "price": 129.99
+    },
+    {
+      "product_id": 16,
+      "category": "Outdoor",
+      "image_url": "https://example.com/product16.jpg",
+      "title": "Durable Hiking Boots",
+      "description": "Conquer the great outdoors with these durable hiking boots. They provide support and comfort on any terrain.",
+      "price": 89.99
+    },
+    {
+      "product_id": 17,
+      "category": "Electronics",
+      "image_url": "https://example.com/product17.jpg",
+      "title": "Bluetooth Speaker",
+      "description": "Enjoy your favorite music on the go with this portable Bluetooth speaker. It delivers impressive sound quality.",
+      "price": 59.99
+    },
+    {
+      "product_id": 18,
+      "category": "Electronics",
+      "image_url": "https://example.com/product18.jpg",
+      "title": "Digital Drawing Tablet",
+      "description": "Unleash your creativity with this digital drawing tablet. It's perfect for artists and graphic designers.",
+      "price": 199.99
+    },
+    {
+      "product_id": 19,
+      "category": "Home",
+      "image_url": "https://example.com/product19.jpg",
+      "title": "Memory Foam Mattress",
+      "description": "Get the restful sleep you deserve with this memory foam mattress. It contours to your body for ultimate comfort.",
+      "price": 499.99
+    },
+    {
+      "product_id": 20,
+      "category": "Home",
+      "image_url": "https://example.com/product20.jpg",
+      "title": "Wireless Security Camera",
+      "description": "Keep an eye on your home with this wireless security camera. It provides peace of mind and real-time monitoring.",
+      "price": 149.99
+    },
+    {
+      "product_id": 21,
+      "category": "Home",
+      "image_url": "https://example.com/product21.jpg",
+      "title": "Smart Thermostat",
+      "description": "Control your home's temperature with ease using this smart thermostat. Save energy and money.",
+      "price": 129.99
+    },
+    {
+      "product_id": 22,
+      "category": "Electronics",
+      "image_url": "https://example.com/product22.jpg",
+      "title": "Vintage Record Player",
+      "description": "Experience the nostalgia of vinyl records with this vintage record player. It's a classic with a modern twist.",
+      "price": 249.99
+    },
+    {
+      "product_id": 23,
+      "category": "Fashion",
+      "image_url": "https://example.com/product23.jpg",
+      "title": "Men's Leather Jacket",
+      "description": "Stay stylish and warm with this men's leather jacket. It's a versatile addition to your wardrobe.",
+      "price": 199.99
+    },
+    {
+      "product_id": 24,
+      "category": "Electronics",
+      "image_url": "https://example.com/product24.jpg",
+      "title": "Smart Home Security System",
+      "description": "Protect your home with this smart security system. It offers surveillance and peace of mind.",
+      "price": 349.99
+    },
+    {
+      "product_id": 25,
+      "category": "Appliances",
+      "image_url": "https://example.com/product25.jpg",
+      "title": "Air Fryer",
+      "description": "Enjoy healthier meals with this air fryer. It cooks your favorite dishes with less oil for guilt-free eating.",
+      "price": 79.99
+    },
+    {
+      "product_id": 26,
+      "category": "Electronics",
+      "image_url": "https://example.com/product26.jpg",
+      "title": "Wireless Charging Dock",
+      "description": "Charge multiple devices at once with this wireless charging dock. It's the ultimate charging solution for your home.",
+      "price": 39.99
+    },
+    {
+      "product_id": 27,
+      "category": "Fashion",
+      "image_url": "https://example.com/product27.jpg",
+      "title": "Women's Running Shoes",
+      "description": "Step up your fitness game with these women's running shoes. They provide support and comfort for your workouts.",
+      "price": 69.99
+    },
+    {
+      "product_id": 28,
+      "category": "Electronics",
+      "image_url": "https://example.com/product28.jpg",
+      "title": "Smart Home Hub",
+      "description": "Make your home smarter with this smart home hub. Control your devices with voice commands and automation.",
+      "price": 129.99
+    },
+    {
+      "product_id": 29,
+      "category": "Furniture",
+      "image_url": "https://example.com/product29.jpg",
+      "title": "Modern Coffee Table",
+      "description": "Add a touch of modern elegance to your living room with this stylish coffee table. It's the centerpiece you need.",
+      "price": 199.99
+    },
+    {
+      "product_id": 30,
+      "category": "Electronics",
+      "image_url": "https://example.com/product30.jpg",
+      "title": "Smart LED Bulbs",
+      "description": "Illuminate your home with smart LED bulbs. Adjust the lighting to fit your mood and save on energy bills.",
+      "price": 24.99
+    }
+  ]
+  
